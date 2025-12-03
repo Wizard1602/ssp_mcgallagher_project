@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm internal files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# CSV outputs (optional — you may want to COMMIT them because the rubric requires them)
+#*.csv
